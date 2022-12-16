@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "11222590919",
+    "project_id": "flutter-with-textformfield",
+    "storage_bucket": "flutter-with-textformfield.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11222590919:android:bc55d9fd34f9b6641925e2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_image_withformfield"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11222590919-7kvpoquel34b8gcgsacg82rq7ic00raf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZH7EEvz6EhKZtrpTebJuRDBAB-aATFbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11222590919-7kvpoquel34b8gcgsacg82rq7ic00raf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
